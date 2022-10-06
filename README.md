@@ -10,7 +10,7 @@
   <img align="center" alt="Vicente-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vicente-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicente-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vicente-Nextjs" height="30" width="40"  src="https://user-images.githubusercontent.com/48080194/194411480-cec3e2e8-76bb-4083-b242-86d91e3aa3c8.png">
+  <img align="center" alt="Vicente-Nextjs" height="30" width="40"  src="./images/next-js-white.svg">
 
 </div>
   
