@@ -1,27 +1,62 @@
 # Hi, I’m Vicente Mattos 👋
 
-I'm a Software Engineer frontend focused with a degree in Computer Science from Unifor and over 5 years of experience building scalable, robust, and user-centered web applications. He works as a Full Stack Developer with a strong focus on the frontend, using React.js, Next.js, TypeScript, Shadcn, Tailwind CSS, Material UI, and SCSS to deliver modern, accessible, and high-performance interfaces.
+Full Stack Software Engineer with more expertise in frontend, with a degree in Computer Science from Unifor and over 8+ years of experience building scalable, robust, and user-centered web applications. Expert in React.js, Next.js, TypeScript, Redux, Context API and modern UI stacks like Shadcn, Tailwind CSS, Material UI, Chakra UI, and React-Bootstrap to deliver modern, accessible, and high-performance interfaces.
 
 <p align="center">
   <a href="https://github.com/vicentemattos1">
-    <img src="https://github-readme-stats.vercel.app/api?username=vicentemattos1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vicente’s GitHub stats" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicentemattos1&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
   </a>
 </p>
 
 ## 🚀 Tech Stack
-<p align="center">
+<div style="display: inline_block;">
+ <kbd align="left">
+      <kbd>Knowledge in:</kbd>
+      <br />
+      <br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="32" height="32" />
-
-</p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" height="32" />
+      
+<br />
+<br /> 
+</kbd>
+<br /> 
+<br /> 
+<kbd align="left">
+<kbd>Studying:</kbd>
+ <br />
+ <br /> 
+  <img align="center" title="GraphQL" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+  <img align="center" title="AWS" alt="bun" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
+   
+ <br />
+ <br />
+</kbd> 
+<br /> 
+<br /> 
+<kbd align="left">
+<kbd>Interest in:</kbd> 
+    <br />
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="32" height="32" />
+    <img align="center" title="Kubernetes" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+      
+ <br />
+ <br />
+ </kbd>
+    
+ </div>
 ## 🛠️ Featured Projects
 Here are a few standout repositories you can explore:
 
