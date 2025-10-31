@@ -56,13 +56,16 @@ Full Stack Software Engineer with more expertise in frontend, with a degree in C
  </kbd>
     
  </div>
+  <br />
+ <br />
 ## 🛠️ Featured Projects
 Here are a few standout repositories you can explore:
 
 - 🔗 **[Portifolio](https://github.com/vicentemattos1/portifolio)** – My portfolio site, using React 18, TypeScript, Vite, Material-UI(MUI) and Sass.
+- 🔗 **[AI assistant - Chat conversation](https://github.com/vicentemattos1/chat)** – FullStack RAG with AI integration using React + Vite + TS, RTK Query, Tailwind, Shadcn UI, FastAPI app, async SQLAlchemy, Alembic, JWT
 - 🔗 **[Pizza Shop Web](https://github.com/vicentemattos1/pizza-shop-web)** – Project for a fast food company, including tables to analyze order statuses, a sales dashboard, and a system to manage refunded orders, using technologies such as ReactJS, React Query, RadixUI, and TailwindCSS to ensure a responsive, interactive, and efficient interface;
 - 🔗 **[Redux Zustand](https://github.com/vicentemattos1/redux-zustand)** – Develop a video-based learning platform project with lessons organized into modules, using front-end tools such as Redux and Zustand for global state management and data handling; TailwindCSS for style management; and json-server to create a mock server;
-- 🔗 **[Posterr](https://github.com/vicentemattos1/twitter-frontend)** – Design and develop an application with features similar to Twitter, using TypeScript, ReactJS, and NextJS to ensure a dynamic and responsive interface.Integrate essential features such as feed, posts, and user interactions, ensuring performance and scalability, while also providing an intuitive and user-friendly interface;
+- 🔗 **[Posterr](https://github.com/vicentemattos1/twitter-frontend-v2)** – Design and develop an application with features similar to Twitter, using TypeScript, ReactJS, Vite to ensure a dynamic and responsive interface.Integrate essential features such as feed, posts, and user interactions, ensuring performance and scalability, while also providing an intuitive and user-friendly interface;
 - 🔗 **[Ignews](https://github.com/vicentemattos1/ignews)** – Design and develop a blog with subscription, payment, and route control functionalities, using TypeScript, ReactJS, and NextJS to create a responsive and high-performance interface;
 - 🔗 **[Dynamic Chat](https://github.com/vicentemattos1/mobile_chat)** – A React Native chat application with context-based editing and modal actions, showcasing gesture handling and optimized performance.
 - 🔗 **[Mobile shop list](https://github.com/vicentemattos1/react-native-shop-list)** – A TypeScript React Native shopping list app with local storage, customizable categories, and offline support.
