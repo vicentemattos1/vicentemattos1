@@ -72,13 +72,4 @@ Here are a few standout repositories you can explore:
 - 🔗 **[fastify-api](https://github.com/vicentemattos1/fastify-api)** – A boilerplate for building RESTful APIs with Fastify, featuring JWT authentication, PostgreSQL integration, and Swagger docs.
 - 🔗 **[csv_control_vue](https://github.com/vicentemattos1/csv_control_vue)** – A Vue.js project demonstrating CSV import/export, dynamic table filtering, and chart visualization.
 
-> 🔍 Visit my GitHub profile’s **Pinned** section for more projects!
-<div align="center">
-  <a href="mailto:vicentemattosf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vicentemattos1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vicentemattos.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-</div>
 
----
-
-![Contribution Snake](https://github.com/vicentemattos1/vicentemattos1/blob/output/github-contribution-grid-snake.svg)
