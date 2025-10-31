@@ -47,10 +47,9 @@ Full Stack Software Engineer with more expertise in frontend, with a degree in C
 <kbd>Interest in:</kbd> 
     <br />
     <br />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="32" height="32" />
-    <img align="center" title="Kubernetes" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+    <img title="Kubernetes" alt="Kubernetes" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
       
  <br />
  <br />
